@@ -6,4 +6,5 @@
 - npm run dev
 
 ## Backend
-"# PDF-OCR-GoogleDocumentAPI" 
+- pip install -r requirements.txt
+- python api.py
