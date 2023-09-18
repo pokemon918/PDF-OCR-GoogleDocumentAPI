@@ -1,0 +1,14 @@
+google-cloud-documentai
+google-cloud-translate
+google-search-results
+google-auth-oauthlib
+google-cloud-core
+google-api-core
+google-auth
+python-multipart
+pypdf2==2.12.1
+pdf2image
+fitz
+PyMuPDF
+fastapi
+uvicorn
